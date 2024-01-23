@@ -1,3 +1,14 @@
-.navbar .container-fluid .collapse .navbar-nav{
-  padding-inline:200px ;
+.navbar .container .collapse ul li
+{
+  font-weight: 600;
+  padding-inline: 20px;
+}
+.home {
+min-width: 100%;
+min-height: 40px;
+background-color: #faf0e6;
+}
+
+.home .container > p {
+  /* margin-top: 10px; */
 }
